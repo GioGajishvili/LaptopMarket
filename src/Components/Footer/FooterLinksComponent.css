@@ -1,0 +1,29 @@
+.link-titles {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  color: rgb(100, 98, 98);
+  font-family: Jura;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.link-values {
+  color: rgb(255, 255, 255);
+  font-family: Jura;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.link-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.child-div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}

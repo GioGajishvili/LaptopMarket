@@ -1,0 +1,38 @@
+.login-component {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 520px;
+  height: 420px;
+  background-color: #e7eafa;
+  border-radius: 50px;
+}
+
+.form-login {
+  display: flex;
+  flex-direction: column;
+  font-family: Jura;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.login-button {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin-top: 40px;
+}
+
+.input:focus {
+  background-color: rgb(246, 248, 255);
+  transition: 1s;
+}
+
+.reset-password-link {
+  color: black;
+}
+
+.reset-password-link:hover {
+  transition: 1s;
+  color: rgb(56, 91, 187);
+}

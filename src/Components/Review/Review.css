@@ -1,0 +1,59 @@
+.review-container {
+  margin-top: 90px;
+  height: 300px;
+  width: 900px;
+  background-color: #e7eafa;
+  border-radius: 36px;
+}
+
+.review-tag {
+  display: flex;
+  flex-direction: row;
+  justify-self: flex-end;
+}
+
+.review-text-container {
+  width: 600px;
+  height: 100px;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+
+.review-texts {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 15px;
+}
+
+.review-author {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 15px;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 110px;
+  margin-top: 12px;
+}
+
+.review-button {
+  width: 200px;
+  height: 40px;
+  border-radius: 50px;
+  border: none;
+  background-color: rgb(56, 91, 187);
+  color: white;
+  font-size: 17px;
+  font-family: jura;
+  font-style: normal;
+  font-weight: bolder;
+}
+
+.review-bubbles {
+  height: 26px;
+  width: 26px;
+  cursor: pointer;
+  color: grey;
+  margin-top: 8px;
+}

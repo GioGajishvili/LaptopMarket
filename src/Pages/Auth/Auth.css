@@ -1,0 +1,21 @@
+.auth-page {
+  margin-left: 18%;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 200px;
+  padding-top: 300px;
+  width: 80%;
+  max-height: 250px;
+  background-color: rgb(255, 255, 255);
+}
+
+.login-title {
+  font-family: Jura;
+  font-style: normal;
+  font-weight: bold;
+  margin-left: 90px;
+  margin-bottom: 50px;
+  font-size: 40px;
+  color: black;
+}

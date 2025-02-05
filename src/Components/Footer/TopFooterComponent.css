@@ -1,0 +1,44 @@
+.bubbles-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.bubbles {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: rgb(56, 91, 187);
+  color: white;
+}
+
+.footer-title {
+  font-family: Jura;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 20px;
+  white-space: nowrap;
+  font-size: 18px;
+  margin: 8px;
+}
+
+.footer-text {
+  font-family: Jura;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  margin: 8px;
+}
+
+.title-container {
+  text-align: center;
+}
+
+.text-container {
+  text-align: center;
+  width: 300px;
+  word-wrap: break-word;
+}

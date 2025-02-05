@@ -1,0 +1,8 @@
+.pods-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 1000px;
+  background-color: rgb(43, 255, 0);
+}

@@ -1,0 +1,19 @@
+.register-component {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 520px;
+  height: 420px;
+  background-color: #e7eafa;
+  border-radius: 50px;
+}
+
+.form-register {
+  display: flex;
+  align-items: left;
+  justify-content: space-between;
+  flex-direction: column;
+  font-family: Jura;
+  font-style: normal;
+  font-weight: bold;
+}

@@ -1,0 +1,106 @@
+.about-us-page {
+  width: 100%;
+  height: 4000px;
+  background-color: white;
+}
+
+.arrow-routing {
+  display: flex;
+  align-items: center;
+  margin-top: 110px;
+  margin-left: 200px;
+  padding: 30px;
+}
+
+.about-us-link {
+  cursor: pointer;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+
+.about-us-link:hover {
+  color: rgb(0, 0, 0);
+}
+
+.about-us-title {
+  margin-top: 30px;
+  margin-left: 296px;
+  font-family: jura;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  color: black;
+}
+
+.first-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 40px;
+  width: 100%;
+  height: 666px;
+  background-color: black;
+  font-family: jura;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 14px;
+}
+
+.second-section-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 40px;
+  width: 100%;
+  height: 600px;
+  background-color: rgb(255, 255, 255);
+  font-family: jura;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 14px;
+}
+
+.third-section-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 40px;
+  width: 100%;
+  height: 666px;
+  background-color: black;
+  font-family: jura;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 14px;
+}
+
+.fourth-section-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 40px;
+  width: 100%;
+  height: 600px;
+  background-color: rgb(255, 255, 255);
+  font-family: jura;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 14px;
+}
+.fifth-section-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 40px;
+  width: 100%;
+  height: 666px;
+  background-color: black;
+  font-family: jura;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 14px;
+}
